@@ -1,0 +1,109 @@
+.navbar-brand{
+    color: black;
+}
+
+#navLinks .nav-item{
+  text-align: justify;
+  margin: auto;
+  width: 100px;
+}
+
+.nav-item{
+  background-color: rgb(43, 8, 15);
+  
+}
+
+.navbar{
+  background-color: rgb(138, 222, 255);
+}
+
+.btn{
+  background-color: rgb(204, 58, 77)
+}
+.nav-link{
+  background-color: white
+}
+.nav-link:hover{
+  background-color:rgb(140, 242, 255)
+}
+.dropdown-item:hover{
+  background-color:rgb(160, 252, 255)
+}
+.dropdown-toggle:hover{
+  background-color: rgb(107, 233, 255)
+}
+
+.icon{
+  width: 8%;
+  margin-right: 350px
+}
+
+.jumbotron{
+  background-image:url("shirts.jpg");
+  background-size: cover;
+  margin-bottom:100px
+}
+
+
+.shop{
+  color: white;
+  margin-left: 250px;
+  text-decoration-line: rgb(115, 115, 247);
+  border: 2px dashed red
+}
+
+kbd{
+  font-size: 200%
+
+}
+
+.btn-hello{
+  background-color: rgb(82, 187, 236)
+
+}
+
+.btn-hello:hover{
+  background-color: rgb(255, 255, 255)
+}
+
+.lead{
+  font-size: 500%;
+  color: white
+}
+
+body {
+  background-image: url("Logo.png");
+  background-repeat: no-repeat, no-repeat;
+  background-attachment: fixed;
+  background-size: 40% auto;
+  background-position: center;
+}
+
+.below{
+  color: white
+}
+
+.carousel-indicators .active{
+  background-color: rgb(65, 181, 235);
+  margin-right: 150px
+ 
+}
+
+.carousel-control-next{
+  background-color: rgb(199, 230, 245);
+}
+.carousel-control-prev{
+  background-color: rgb(190, 225, 241);
+}
+
+.carousel-item{
+  padding-left: 150px
+}
+
+#images2{
+ 
+}
+
+#images3{
+  
+}

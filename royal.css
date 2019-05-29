@@ -1,0 +1,134 @@
+.navbar-brand{
+    color: black;
+}
+
+#navLinks .nav-item{
+  text-align: justify;
+  margin: auto;
+  width: 100px;
+}
+
+.nav-item{
+  background-color: rgb(43, 8, 15);
+  
+}
+
+.navbar{
+  background-color: rgb(138, 222, 255);
+}
+
+.btn{
+  background-color: rgb(204, 58, 77)
+}
+.nav-link{
+  background-color: white
+}
+.nav-link:hover{
+  background-color:rgb(140, 242, 255)
+}
+.dropdown-item:hover{
+  background-color:rgb(160, 252, 255)
+}
+.dropdown-toggle:hover{
+  background-color: rgb(107, 233, 255)
+}
+
+.icon{
+  width: 8%;
+  margin-right: 350px
+}
+
+.jumbotron{
+  background-image:url("https://i.ytimg.com/vi/8ZE24artk40/maxresdefault.jpg");
+  background-size: cover;
+  margin-bottom:100px
+}
+
+
+.shop{
+  color: white;
+  margin-left: 250px;
+  text-decoration-line: rgb(115, 115, 247);
+  border: 2px dashed red
+}
+
+kbd{
+  font-size: 200%
+
+}
+
+.btn-hello{
+  background-color: rgb(82, 187, 236)
+
+}
+
+.btn-hello:hover{
+  background-color: rgb(255, 255, 255)
+}
+
+.lead{
+  font-size: 500%;
+  color: white
+}
+
+body {
+  background-image: url("https://cdn.shopify.com/s/files/1/0014/5473/5425/products/Copy-of-JCD_1887_2048x.png?v=1532966691");
+  background-repeat: no-repeat, no-repeat;
+  background-color: #ffffff;
+  background-attachment: fixed;
+  background-size: cover;
+  background-size: 70% auto;
+  background-position: right;
+ 
+}
+
+
+.two{
+  background-image:url("http://1015.com/wp-content/uploads/2017/02/6.jpg");
+  
+}
+
+#cover{
+  color: rgb(255, 255, 255)
+}
+
+.carousel {
+  width:1000px;
+  height:auto;
+  padding-left: 100px
+}
+
+.carousel-indicators{
+   padding-left: 
+}
+
+.carousel-control-prev{
+  padding-left: 150px;
+}
+
+.carousel-control-next{
+  padding-right: 255px;
+}
+
+#greece{
+  color: rgb(255, 255, 255)
+}
+
+.three{
+  background-image:url("http://www.themaskedgorilla.com/wp-content/uploads/2016/05/octobers-very-own-2016-summer-editorial-featuring-playboy-carti-ian-connor-and-john-ross-12120.jpg");
+  background-size: cover;
+  margin-bottom:100px
+}
+
+.col-7{
+  padding-left: 900px;
+  padding-bottom: 900px;
+}
+
+.four{
+  background-image:url("https://scontent-yyz1-1.cdninstagram.com/vp/9ae7f82f2d58f27dc2a430466c938a06/5D405386/t51.2885-15/e35/55851112_393567718149810_7369929621341349506_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com&se=8");
+}
+
+#deals{
+  color: rgb(113, 191, 243)
+}
